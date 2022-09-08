@@ -1,0 +1,2 @@
+I love C++ because _ and I hate it because _.
+I love Rust because _.

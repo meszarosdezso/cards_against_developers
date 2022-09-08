@@ -1,0 +1,8 @@
+Ownership and borrowing
+Memory management
+Pointers
+std::sync::Arc
+Smart Pointers
+Hoisting
+JavaScript
+Types
